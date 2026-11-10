@@ -1,8 +1,25 @@
-# 🌾 Unified AI Assistant for Farmers: Core Engine & Data (Person 1)
+# 🌾 OpenQuest: Unified Agricultural Intelligence & Decision Engine
 
-**Role:** Person 1 (The "Brain" & Data Engine)  
-**Target Focus:** Telangana State (Small & Marginal Farmers, Tenant Farmers)  
-**Location:** `C:\Users\tomka\.gemini\antigravity\scratch\farmer_schemes_engine`
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Domain: AgTech](https://img.shields.io/badge/Domain-AgTech%20%26%20Rural%20FinTech-2EA44F.svg?style=flat-square)](https://github.com/tomkarrao-commits/OpenQuest)
+[![Architecture: Deterministic Rule Engine](https://img.shields.io/badge/Architecture-Deterministic%20Rule%20Engine-F59E0B.svg?style=flat-square)](https://github.com/tomkarrao-commits/OpenQuest)
+[![Focus: Telangana Farmers](https://img.shields.io/badge/Focus-Telangana%20State-blue.svg?style=flat-square)](https://github.com/tomkarrao-commits/OpenQuest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
+**OpenQuest** is a deterministic intelligence engine and decision-support system designed to empower small, marginal, and tenant farmers with verified government scheme eligibility, real-time Minimum Support Price (MSP) vs. Mandi price comparison, and an anti-broker cooperative input directory.
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/tomkarrao-commits/OpenQuest.git
+cd OpenQuest
+
+# Run the comprehensive 4-profile evaluation demo
+python demo.py
+```
 
 ---
 
